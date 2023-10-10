@@ -1,0 +1,27 @@
+_repo: The-radio-girls-of-Roselawn-b-or-A-strange-message-from-the-air_71771
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2023-10-01'
+identifiers:
+  gutenberg: '71771'
+language: en
+pgterms:marc905: 20220621180646penrose
+pgterms:marc906: '1922'
+pgterms:marc907: us
+production_note: David Edwards, A. Marshall and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bCupples & Leon Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The radio girls of Roselawn : $b or, A strange message from the air'
+url: http://www.gutenberg.org/ebooks/71771
