@@ -1,5 +1,8 @@
 _repo: The-radio-girls-of-Roselawn-b-or-A-strange-message-from-the-air_71771
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71771-h/images/cover.jpg
 creator:
   author:
     agent_name: Penrose, Margaret
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1022
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Penrose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71771#The-radio-girls-of-Roselawn-b-or-A-strange-message-from-the-air
 gutenberg_issued: '2023-10-01'
 identifiers:
   gutenberg: '71771'
